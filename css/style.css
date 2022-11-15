@@ -1,0 +1,27 @@
+.nav{
+    background-color: black;
+    color: white;
+}
+
+.col-sm-6{
+    background-color: blue;
+}
+
+.col-md-6{
+    background-color: green;
+}
+
+.left_column{
+    background-color: cadetblue;
+    color: white;
+}
+
+.right_column{
+    background-color:greenyellow;
+    color: white;
+}
+
+.footer{
+    background-color:red;
+    color: white;
+}
